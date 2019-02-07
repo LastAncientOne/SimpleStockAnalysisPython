@@ -10,3 +10,13 @@ This is tutorial for Stock Analysis. It is very simple and easy to understand fo
 6. How to add and save to csv file?
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
+
+
+If you want to learn more advance stock analyze or different language in finance, go to:
+https://github.com/LastAncientOne/Stock-Analysis
+
+If you into deep learning or machine learning for finance, go to:
+https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
+
+If you want to learn about Mathematics behind deep learning or machine learning, go to:
+https://github.com/LastAncientOne/Mathematics_for_Machine_Learning
