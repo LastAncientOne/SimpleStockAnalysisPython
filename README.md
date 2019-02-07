@@ -5,5 +5,7 @@ This is tutorial for Stock Analysis. It is very simple and easy to understand fo
 1. How to get data from yahoo, quandl, or other sites?
 2. How to scrape historical data or fundmental data?
 3. How to analyze the stock data?
+4. How to make a trendlines?
+5. How to add and save to csv file?
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
