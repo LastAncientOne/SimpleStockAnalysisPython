@@ -8,6 +8,7 @@ This is tutorial for Stock Analysis. It is very simple and easy to understand fo
 4. How to make a trendlines?
 5. How to use Technical Analysis and Fundamental Analysis?
 6. How to add and save to csv file?
+7. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
 
