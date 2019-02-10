@@ -1,6 +1,6 @@
 # SimpleStockAnalysis
 
-This is tutorial for Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis.
+This is tutorial for Simple Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial for people that want to learn python for stock analysis. 
 
 1. How to get data from yahoo, quandl, or other sites?
 2. How to scrape historical data, fundamental data, and news data?
@@ -21,3 +21,6 @@ https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
 
 If you want to learn about Mathematics behind deep learning or machine learning, go to:
 https://github.com/LastAncientOne/Mathematics_for_Machine_Learning
+
+
+## I hope you enjoy learning this simple tutorial.
