@@ -4,10 +4,14 @@ This is tutorial for Simple Stock Analysis. It is very simple and easy to unders
 
 ## Input
 Pick a symbol, you want to analyze. 
+
 symbol = '...' <-- ... input a symbol
 
 Pick a start and end date for time frame to analyze. 
+
 start = '...' & end = '...' <-- input a date
+
+
 
 1. How to get data from yahoo, quandl, or other sites?
 2. How to scrape historical data, fundamental data, and news data?
