@@ -2,6 +2,10 @@
 
 This is tutorial for Simple Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial for people that want to learn python for stock analysis. 
 
+## Input
+Pick a symbol, you want to analyze. symbol = '...' <- ... input a symbol
+Pick a start and end date for time frame to analyze. start = '...' & end = '...'
+
 1. How to get data from yahoo, quandl, or other sites?
 2. How to scrape historical data, fundamental data, and news data?
 3. How to analyze the stock data?
