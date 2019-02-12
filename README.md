@@ -11,7 +11,7 @@ Pick a start and end date for time frame to analyze.
 
 start = '...' & end = '...' <-- input a date
 
-
+___________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
   2. How to scrape historical data, fundamental data, and news data?
   3. How to analyze the stock data?
