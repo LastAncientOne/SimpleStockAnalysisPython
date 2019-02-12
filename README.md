@@ -12,14 +12,13 @@ Pick a start and end date for time frame to analyze.
 start = '...' & end = '...' <-- input a date
 
 
-
-1. How to get data from yahoo, quandl, or other sites?
-2. How to scrape historical data, fundamental data, and news data?
-3. How to analyze the stock data?
-4. How to make a trendlines?
-5. How to use Technical Analysis and Fundamental Analysis?
-6. How to add and save to csv file?
-7. Example of python libraries for Technical Analysis and fetching historical stock prices.
+  1. How to get data from yahoo, quandl, or other sites?
+  2. How to scrape historical data, fundamental data, and news data?
+  3. How to analyze the stock data?
+  4. How to make a trendlines?
+  5. How to use Technical Analysis and Fundamental Analysis?
+  6. How to add and save to csv file?
+  7. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
 
