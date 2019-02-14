@@ -7,7 +7,7 @@ Pick a symbol, you want to analyze.
 
 ### symbol = '...' <-- ... input a symbol
 
-Pick a 'start' date and 'end' date for time frame to analyze. 
+Pick a 'start' date and 'end' date for certain time frame to analyze. 
 
 ### start = '...' & end = '...' <-- input a date
 
