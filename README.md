@@ -24,6 +24,8 @@ ________________________________________________________________________________
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
 
+If you want to learn different simple function for stock analysis, go to:
+https://github.com/LastAncientOne/100_Day_Challenge
 
 If you want to learn more advance stock analyze or different language in finance, go to:
 https://github.com/LastAncientOne/Stock-Analysis
@@ -33,6 +35,7 @@ https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
 
 If you want to learn about Mathematics behind deep learning or machine learning, go to:
 https://github.com/LastAncientOne/Mathematics_for_Machine_Learning
+
 
 ## I will add more.
 ## I hope you enjoy learning this simple tutorial.
