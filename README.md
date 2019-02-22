@@ -18,7 +18,8 @@ ________________________________________________________________________________
   4. How to make a trendlines?
   5. How to use Technical Analysis and Fundamental Analysis?
   6. How to add and save to csv file?
-  7. Example of python libraries for Technical Analysis and fetching historical stock prices.
+  7. How to customize table and make beautiful plot?
+  8. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 ______________________________________________________________________________________________________________________________
 
