@@ -21,7 +21,9 @@ ________________________________________________________________________________
   7. How to customize table and make beautiful plot?
   8. How to create class and function for stock.?
   9. How to applied statistics and timeseries for stock?
-  10. Example of python libraries for Technical Analysis and fetching historical stock prices.
+  10. How to create buy and sell signals?
+  11. How to create stock prediction in machine learning?
+  12. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 ______________________________________________________________________________________________________________________________
 
