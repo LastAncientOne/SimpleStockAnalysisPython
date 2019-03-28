@@ -22,7 +22,7 @@ ________________________________________________________________________________
   8. How to create class and function for stock.?
   9. How to applied statistics and timeseries for stock?
   10. How to create buy and sell signals?
-  11. How to create stock prediction in machine learning?
+  11. How to create stock prediction in machine learning and deep learning?
   12. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 ______________________________________________________________________________________________________________________________
