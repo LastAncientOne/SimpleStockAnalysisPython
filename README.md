@@ -41,6 +41,8 @@ https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
 If you want to learn about Mathematics behind deep learning or machine learning, go to:
 https://github.com/LastAncientOne/Mathematics_for_Machine_Learning
 
+## Authors
+* Tin Hang
 
 ## I will add more.
 ## I hope you enjoy learning this simple tutorial.
