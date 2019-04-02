@@ -2,6 +2,9 @@
 
 This is tutorial for Simple Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial for people that want to learn python for stock analysis. 
 
+# Prerequistes
+Python 3.5+
+
 ## Input
 Pick a symbol, you want to analyze. 
 
