@@ -10,6 +10,32 @@ Pick a symbol, you want to analyze.
 Pick a 'start' date and 'end' date for certain time frame to analyze. 
 
 ### start = '...' & end = '...' <-- input a date
+______________________________________________________________________________________________________________________________
+## Examples 
+```python
+# Libraries
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+import warnings
+warnings.filterwarnings("ignore")
+
+# fix_yahoo_finance is used to fetch data 
+import fix_yahoo_finance as yf
+yf.pdr_override()
+
+# input
+symbol = 'AAPL' # Apple Company
+start = '2018-01-01'
+end = '2019-01-01'
+
+# Read data 
+df = yf.download(symbol,start,end)
+
+# View Columns
+df.head()
+```
 
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
@@ -19,7 +45,7 @@ ________________________________________________________________________________
   5. How to use Technical Analysis and Fundamental Analysis?
   6. How to add and save to csv file?
   7. How to customize table and make beautiful plot?
-  8. How to create class and function for stock.?
+  8. How to create class and function for stock?
   9. How to applied statistics and timeseries for stock?
   10. How to create buy and sell signals?
   11. How to create stock prediction in machine learning and deep learning?
