@@ -4,6 +4,7 @@ This is tutorial for Simple Stock Analysis. It is very simple and easy to unders
 
 # Prerequistes
 Python 3.5+
+Jupyter Notebook Python 3
 
 ## Input
 Pick a symbol, you want to analyze. 
