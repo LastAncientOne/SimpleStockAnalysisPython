@@ -52,6 +52,8 @@ df.head()
 ```
 
 ## Example Stock Charts:
+<img src="stock_chart.png">
+
 
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
