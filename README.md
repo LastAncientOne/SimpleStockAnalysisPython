@@ -9,7 +9,7 @@ Jupyter Notebook Python 3
 
 ## Dependencies
 * fix_yahoo_finance
-* TensorFlow
+* TensorFlow 1.10.0
 * Pandas
 * Numpy
 * ta-lib
