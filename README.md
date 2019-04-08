@@ -57,7 +57,7 @@ df.head()
 ## Example Stock Scripts
 In command DOS drive C:\
 How to run python scripts in command prompt(cmd) or Windows PowerShell?
-### Type: python SimpleStockScripts.py
+### Type: python SimpleStockChartScripts.py
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
   2. How to scrape historical data, fundamental data, and news data?
@@ -71,7 +71,8 @@ ________________________________________________________________________________
   10. How to applied statistics and timeseries for stock?
   11. How to create buy and sell signals? 
   12. How to create stock prediction in machine learning and deep learning?
-  13. Example of python libraries for Technical Analysis and fetching historical stock prices.
+  13. How to create simple stock strategy?
+  14. Example of python libraries for Technical Analysis and fetching historical stock prices.
 
 ______________________________________________________________________________________________________________________________
 
