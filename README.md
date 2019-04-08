@@ -55,7 +55,8 @@ df.head()
 <img src="stock_chart.png">
 
 ## Example Stock Scripts
-In command DOS drive C:\
+In command DOS drive 'C:\' 
+Find where you put the code .py in?
 How to run python scripts in command prompt(cmd) or Windows PowerShell?
 ### Type: python SimpleStockChartScripts.py
 ______________________________________________________________________________________________________________________________
