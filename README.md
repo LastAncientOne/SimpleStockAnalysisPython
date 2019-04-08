@@ -56,7 +56,7 @@ df.head()
 
 ## Example Stock Scripts
 In command DOS drive C:\
-How to run python scripts in command prompt?
+How to run python scripts in command prompt or Windows PowerShell?
 ### Type: python SimpleStockScripts.py
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
