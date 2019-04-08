@@ -54,7 +54,9 @@ df.head()
 ## Example Stock Charts:
 <img src="stock_chart.png">
 
-
+## Example Stock Scripts
+In command DOS drive C:\
+Type: python SimpleStockScripts.py
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
   2. How to scrape historical data, fundamental data, and news data?
