@@ -55,7 +55,7 @@ df.head()
 <img src="stock_chart.png">
 
 ## Example Stock Scripts
-In command DOS drive 'C:\' 
+In command DOS drive 'C:\ ' 
 
 Find where you put the code .py in?
 
