@@ -62,6 +62,8 @@ Find where you put the code .py in?
 How to run python scripts in command prompt(cmd) or Windows PowerShell?
 
 ### Type: python SimpleStockChartScripts.py
+
+## List of questions for simple stock tutorial in python:
 ______________________________________________________________________________________________________________________________
   1. How to get data from yahoo, quandl, or other sites?
   2. How to scrape historical data, fundamental data, and news data?
