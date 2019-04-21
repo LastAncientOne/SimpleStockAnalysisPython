@@ -99,6 +99,10 @@ https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
 If you want to learn about Mathematics behind deep learning or machine learning, go to:
 https://github.com/LastAncientOne/Mathematics_for_Machine_Learning
 
+## Reading Material
+https://www.investopedia.com/terms/s/stock-analysis.asp (Basic Stock Analysis)
+https://www.investopedia.com/articles/investing/093014/stock-quotes-explained.asp
+https://www.investopedia.com/terms/t/trendline.asp
 
 ## Authors
 * Tin Hang
