@@ -86,6 +86,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
+### Blog: https://wordpress.com/block-editor/post/quantanalysis.finance.blog/
 
 If you want to learn different simple function for stock analysis, go to:
 https://github.com/LastAncientOne/100_Day_Challenge
