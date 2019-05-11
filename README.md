@@ -1,3 +1,5 @@
+<img src="Title.PNG">
+
 # Simple Stock Analysis in Python
 
 This is tutorial for Simple Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial for people that want to learn python for stock analysis. 
