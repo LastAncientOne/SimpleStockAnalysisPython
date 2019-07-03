@@ -106,7 +106,7 @@ https://www.investopedia.com/terms/s/stock-analysis.asp (Basic Stock Analysis)
 
 https://www.investopedia.com/articles/investing/093014/stock-quotes-explained.asp (Understand Stock Data)
 
-https://www.investopedia.com/terms/t/trendline.asp
+https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 
 ## Authors
 * Tin Hang
