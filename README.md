@@ -19,8 +19,9 @@ Jupyter Notebook Python 3
 * Numpy
 * ta-lib
 * matlibplot
-* sklearn
+* sklearn  
 
+&#x1F539;
 ### Input
 Pick a symbol, you want to analyze. 
 
