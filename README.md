@@ -21,7 +21,7 @@ Jupyter Notebook Python 3
 * matlibplot
 * sklearn  
 
-&#x1F539;
+
 ### Input
 Pick a symbol, you want to analyze. 
 
