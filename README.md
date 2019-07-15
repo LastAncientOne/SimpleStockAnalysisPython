@@ -88,6 +88,9 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________
 
+:x: If the code does not load or reload, click here: :point_right: https://nbviewer.jupyter.org/
+Paste the code in there. 
+
 I tried to make it simple as possible to understand finance data and how to analyze the data by using python language.
 
 If you want to learn different simple function for stock analysis, go to:
