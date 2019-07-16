@@ -5,7 +5,7 @@
 This is tutorial for Simple Stock Analysis. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial if for people that want to learn python to analyze the stock market. 
 
 The order is from #1 through #26.
-You learn number 1 first and you go in order.
+You learn number 1 first and you go in order. Once you finished, you will know how to write codes in python and understand finance. :congratulations:
 
 ## Prerequistes
 Python 3.5+
