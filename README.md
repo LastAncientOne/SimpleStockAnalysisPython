@@ -116,6 +116,6 @@ https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 * Tin Hang
 
 ## Disclaimer
-&#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read many :books: books that relate to stock market, investment, or finance. The more books you read, the more understand and the more knowledge you gain. On the other hand, if you into quant or machine learning, read books about :blue_book: machine trading, algorithmic trading, and quantitative trading. 
+&#x1F53B; Do not use this code for investing or trading in the stock market. Stock market is unpredictable. :chart_with_upwards_trend: :chart_with_downwards_trend:  However, if you are interest in the stock market, you should read many :books: books that relate to stock market, investment, or finance. The more books you read, the more understand and the more knowledge you gain. On the other hand, if you into quant or machine learning, read books about :blue_book: machine trading, algorithmic trading, and quantitative trading. 
 
 ## This is not get rich quick and is for researching and educational purposes.
