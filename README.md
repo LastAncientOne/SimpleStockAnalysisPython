@@ -8,19 +8,18 @@ The order is from #1 through #26.
 You learn number 1 first and you go in order. Once you finished, you will know how to write codes in python and understand finance and stock market. :congratulations:
 
 ## Prerequistes
-Python 3.5+
+Python 3.5+  
+Jupyter Notebook Python 3  
 
-Jupyter Notebook Python 3
-
-## Dependencies
-* fix_yahoo_finance
-* TensorFlow 1.10.0
-* Pandas
-* Numpy
-* ta-lib
-* matlibplot
-* sklearn  
-
+## Dependencies  
+* fix_yahoo_finance  
+* TensorFlow 1.10.0  
+* Pandas  
+* Numpy  
+* ta-lib  
+* matlibplot  
+* sklearn    
+ 
 
 ### Input
 Pick a symbol, you want to analyze. 
