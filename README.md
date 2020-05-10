@@ -12,7 +12,7 @@ Python 3.5+
 Jupyter Notebook Python 3  
 
 ## Dependencies  
-* fix_yahoo_finance  
+* fix_yahoo_finance  or yfinance
 * TensorFlow 1.10.0  
 * Pandas  
 * Numpy  
@@ -115,6 +115,6 @@ https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 * Tin Hang
 
 ## Disclaimer
-&#x1F53B; Do not use this code for investing or trading in the stock market. Stock market is unpredictable. :chart_with_upwards_trend: :chart_with_downwards_trend:  However, if you are interest in the stock market, you should read many :books: books that relate to the stock market, investment, or finance. The more books you read, the more understand and the more knowledge you gain. On the other hand, if you are into quant or machine learning, read books about :blue_book: machine trading, algorithmic trading, and quantitative trading. 
+&#x1F53B; Do not use this code for investing or trading in the stock market. Stock market is unpredictable. :chart_with_upwards_trend: :chart_with_downwards_trend:  However, if you are interest in the stock market, you should read many :books: books that relate to the stock market, investment, or finance. The more books you read, the more understand and the more knowledge you gain. On the other hand, if you are into quant or machine learning, read books about :blue_book: finance engineering, machine trading, algorithmic trading, and quantitative trading. 
 
 ## This is not get rich quick and is for researching and educational purposes.
