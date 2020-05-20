@@ -12,7 +12,7 @@ Python 3.5+
 Jupyter Notebook Python 3  
 
 ## Dependencies  
-* fix_yahoo_finance  or yfinance
+* fix_yahoo_finance or yfinance  
 * TensorFlow 1.10.0  
 * Pandas  
 * Numpy  
