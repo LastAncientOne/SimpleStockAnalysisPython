@@ -2,7 +2,7 @@
 
 # Simple Stock Analysis in Python
 
-#### This is tutorial for Simple Stock Analysis in jupyter and python. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial is for people that want to learn coding in python to analyze the stock market. However, if you already know about stock analyze or coding in python this will not be for you.
+#### This is tutorial for Simple Stock Analysis in jupyter and python. There are two versions for stock tutorial. One is jupyter version and the other one is python. Jupyter also makes jupyter notebooks, which used to be called iPython notebooks.  However, Python is an interpreted high-level programming language. It is very simple and easy to understand for beginners that wants to learn about stock analysis and wants to become a quant. In addition, this tutorial is for people that want to learn coding in python to analyze the stock market. However, if you already know about stock analyze or coding in python this will not be for you.
 
 ### The order is from #1 through #26.
 #### You learn number 1 first and you go in order. Once you finished, you will know how to write codes in python and understand finance and stock market. :congratulations:
