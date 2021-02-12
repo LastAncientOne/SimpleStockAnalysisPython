@@ -22,7 +22,8 @@ Jupyter Notebook Python 3
  
  
 ## How to install library  
-conda install -c ranaroussi yfinance or pip install yfinance --upgrade --no-cache-dir   
+### conda install -c ranaroussi yfinance  
+### pip install yfinance --upgrade --no-cache-dir    
 
 ### Input
 Pick a symbol, you want to analyze. 
