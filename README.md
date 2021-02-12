@@ -20,6 +20,9 @@ Jupyter Notebook Python 3
 * matlibplot  
 * sklearn    
  
+ 
+## How to install library  
+conda install -c ranaroussi yfinance or pip install yfinance --upgrade --no-cache-dir   
 
 ### Input
 Pick a symbol, you want to analyze. 
