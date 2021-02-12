@@ -95,8 +95,8 @@ I tried to make it simple as possible to understand finance data and how to anal
 If you want to learn different simple function for stock analysis, go to:
 https://github.com/LastAncientOne/100_Day_Challenge
 
-If you want to learn more advance stock analyze or different language in finance, go to:
-https://github.com/LastAncientOne/Stock-Analysis
+If you want to learn more advance stock analysis or different language in finance, go to:
+https://github.com/LastAncientOne/Stock_Analysis_For_Quant
 
 If you into deep learning or machine learning for finance, go to:
 https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock
