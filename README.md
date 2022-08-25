@@ -138,6 +138,8 @@ https://www.investopedia.com/articles/investing/093014/stock-quotes-explained.as
 
 https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)  
+
 ## Authors
 * Tin Hang
 
