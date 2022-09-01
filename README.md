@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)  
+<a href="https://www.buymeacoffee.com/lastancientone" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -138,9 +138,9 @@ https://www.investopedia.com/terms/s/stock-analysis.asp (Basic Stock Analysis)
 
 https://www.investopedia.com/articles/investing/093014/stock-quotes-explained.asp (Understand Stock Data)
 
-https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
+https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)  
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)    
+<a href="https://www.buymeacoffee.com/lastancientone" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 
 ## Authors  
 ### * Tin Hang  
