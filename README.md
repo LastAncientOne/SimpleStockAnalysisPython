@@ -27,7 +27,7 @@
 
 # Simple Stock Analysis in Python
 
-#### This is a tutorial for Simple Stock Analysis in jupyter and python. There are two versions for tutorials. One is a jupyter version and the other one is a python. Jupyter also makes jupyter notebooks, which used to be called iPython notebooks.  However, Python is an interpreted high-level programming language. It is very simple and easy to understand for beginners that want to learn about stock analysis and want to become a quant. In addition, this tutorial is for people that want to learn coding in python to analyze the stock market. However, if you already know about stock analyzing or coding in python, this will not be for you. You can check out more advanced coding: https://github.com/LastAncientOne/Stock_Analysis_For_Quant.   
+#### This is a tutorial for Simple Stock Analysis in Jupyter and Python. There are two versions of the tutorial available: one in Jupyter and the other in Python. Jupyter also provides Jupyter Notebooks, previously known as iPython notebooks. On the other hand, Python is an interpreted high-level programming language known for its simplicity and ease of understanding, especially for beginners interested in learning about stock analysis and becoming quants. This tutorial is designed for individuals who wish to learn coding in Python for stock market analysis. However, if you already possess knowledge in stock analysis or coding in Python, this tutorial may not be suitable for you. You can explore more advanced coding option here: https://github.com/LastAncientOne/Stock_Analysis_For_Quant.   
 
 ### The order is from #1 through #26.
 #### You learn number 1 first and you go in order. Once you have finished, you will know how to write code in python and understand finance and the stock market. :congratulations:
@@ -148,4 +148,4 @@ https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 ## Disclaimer
 &#x1F53B; Do not use this code for investing or trading in the stock market. Stock market is unpredictable. :chart_with_upwards_trend: :chart_with_downwards_trend:  However, if you are interest in the stock market, you should read many :books: books that relate to the stock market, investment, or finance. The more books you read, the more you will understand and the more knowledge you gain. On the other hand, if you are into quant or machine learning, read books about :blue_book: finance engineering, machine trading, algorithmic trading, and quantitative trading. 
 
-## This is not get rich quick and is for researching and educational purposes.
+## This is not a get-rich-quick scheme but rather intended for research and educational purposes.  
