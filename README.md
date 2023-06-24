@@ -27,10 +27,10 @@
 
 # Simple Stock Analysis in Python
 
-#### This is a tutorial for Simple Stock Analysis in Jupyter and Python. There are two versions of the tutorial available: one in Jupyter and the other in Python. Jupyter also provides Jupyter Notebooks, previously known as iPython notebooks. On the other hand, Python is an interpreted high-level programming language known for its simplicity and ease of understanding, especially for beginners interested in learning about stock analysis and becoming quants. This tutorial is designed for individuals who wish to learn coding in Python for stock market analysis. However, if you already possess knowledge in stock analysis or coding in Python, this tutorial may not be suitable for you. You can explore more advanced coding option here: https://github.com/LastAncientOne/Stock_Analysis_For_Quant.   
+#### This is a tutorial on Simple Stock Analysis in Jupyter and Python. There are two versions of the tutorial available: one in Jupyter and the other in Python. Jupyter also provides Jupyter Notebooks, previously known as iPython notebooks. On the other hand, Python is an interpreted high-level programming language known for its simplicity and ease of understanding, especially for beginners interested in learning about stock analysis and becoming quants. This tutorial is designed for individuals who wish to learn Python coding for stock market analysis. However, if you already have knowledge in stock analysis or coding in Python, this tutorial may not be suitable for you. You can explore more advanced coding options here: https://github.com/LastAncientOne/Stock_Analysis_For_Quant.  
 
-### The order is from #1 through #26.
-#### You learn number 1 first and you go in order. Once you have finished, you will know how to write code in python and understand finance and the stock market. :congratulations:
+### The order goes from #1 through #26.
+#### You learn the number 1 first, and then you proceed in order. Once you have finished, you will know how to write code in Python and understand finance and the stock market. :congratulations:
 
 ## Prerequistes
 Python 3.5+  
