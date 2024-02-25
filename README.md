@@ -143,9 +143,9 @@ https://www.investopedia.com/terms/t/trendline.asp (Understand Trendline)
 <a href="https://www.buymeacoffee.com/lastancientone" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 
 ## Authors  
-### * Tin Hang  
+### Tin Hang  
 
 ## Disclaimer
 &#x1F53B; Do not use this code for investing or trading in the stock market. Stock market is unpredictable. :chart_with_upwards_trend: :chart_with_downwards_trend:  However, if you are interest in the stock market, you should read many :books: books that relate to the stock market, investment, or finance. The more books you read, the more you will understand and the more knowledge you gain. On the other hand, if you are into quant or machine learning, read books about :blue_book: finance engineering, machine trading, algorithmic trading, and quantitative trading. 
 
-## This is not a get-rich-quick scheme but rather intended for research and educational purposes.  
+## This is not a get-rich-quick scheme; rather, it is intended for research and educational purposes.  
